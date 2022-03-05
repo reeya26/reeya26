@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### I'm a former financial analyst who is currently studying Data Science at the University of Washington. Just trying to make sense of people and all the data that governs every process around them.
+### I'm a former financial analyst who is currently studying Data Science at the University of Washington. 
+
+> Just trying to make sense of people and all the data that governs every process around them.
 
 <!--
 **reeya26/reeya26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
