@@ -1,9 +1,9 @@
 Hi 👋 My name is Reeya
 ======================================
 ### Data Science, University of Washington
-### Currently interninng at United Nations Development Program, as a Data Science intern
 --------------------------------------
 
+#### Current Data Science intern at the United Nations Development Program 
 I'm a former financial analyst who is currently studying Data Science at the University of Washington. Just trying to make sense of people and all the data that governs every process around them.
 
 *   🌍  I'm based in Seattle
