@@ -1,10 +1,10 @@
 Hi 👋 My name is Reeya
 ======================================
-### Data Science, University of Washington
+### Data Science, Machine Learning
 --------------------------------------
 
-#### Current Data Science intern at the United Nations Development Program 
-I'm a former financial analyst who is currently studying Data Science at the University of Washington. Just trying to make sense of people and all the data that governs every process around them.
+#### Current Research Engineer at the Network Security Lab, ECE Department, University of Washington. 
+I'm a former financial analyst who has completed her Masters in Data Science at the University of Washington. Just trying to make sense of people and all the data that governs every process around them.
 
 *   🌍  I'm based in Seattle
 *   ✉️  You can contact me at [reeyabp@uw.edu](mailto:reeyabp@uw.edu)
