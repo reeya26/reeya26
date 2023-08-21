@@ -11,7 +11,9 @@ I'm a former financial analyst who has completed her Masters in Data Science at 
 *   🧠  I'm learning XGBoost
 *   🤝  I'm open to collaborating on interesting projects!
 
+### Portfolio
 
+My Website: https://www.datascienceportfol.io/reeya26
 
 
 ### Skills
