@@ -7,7 +7,7 @@ Hi 👋 My name is Reeya
 I'm a former financial analyst who has completed her Masters in Data Science at the University of Washington. Just trying to make sense of people and all the data that governs every process around them.
 
 *   🌍  I'm based in Seattle
-*   ✉️  You can contact me at [reeyabp@uw.edu](mailto:reeyabp@uw.edu)
+*   ✉️  You can contact me at [reeyapimple@gmail.com](mailto:reeyapimple@gmail.com)
 *   🧠  I'm learning XGBoost
 *   🤝  I'm open to collaborating on interesting projects!
 
